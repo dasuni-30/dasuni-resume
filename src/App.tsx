@@ -127,7 +127,7 @@ export default function App() {
 
           <div className="flex items-center gap-4 shrink-0">
             <a 
-              href="/public/assets/aistudio/Resume_Dasuni_G__2__6ce24e37.pdf" 
+              href="assets/aistudio/Resume_Dasuni_G__2__6ce24e37.pdf" 
               target="_blank"
               className="flex items-center gap-2 px-4 py-2 text-xs font-semibold text-white bg-blue-600 hover:bg-blue-700 rounded-full transition-all whitespace-nowrap"
             >
