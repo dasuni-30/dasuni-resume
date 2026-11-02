@@ -2,5 +2,7 @@
   "name": "Dasuni Geeganage | Software & AI Engineer Portfolio",
   "description": "Professional portfolio of Dasuni Geeganage, featuring expertise in React, TypeScript, and Artificial Intelligence.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
